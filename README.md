@@ -45,6 +45,13 @@ By using the stagger feature in GSAP, you can specify the amount of time to stag
 
 Read more about the Gsap Stagger feature.
 
+# GsapScrollTrigger
+Gsap Scroll Trigger is a **plugin** (needs to be registered using gsap.registerPlugin(ScrollTrigger) ) that allows you to create animations that are triggered by the scroll position of the page.
+
+With ScrollTrigger, you can define various actions to be triggered at specific scroll points, such as starting or ending an animation, scrubbing through animations as the user scrolls, pinning elements to the screen, and more.
+
+Read more about the gsap scroll trigger method.
+
 
 
 
