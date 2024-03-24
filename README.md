@@ -52,6 +52,15 @@ With ScrollTrigger, you can define various actions to be triggered at specific s
 
 Read more about the gsap scroll trigger method.
 
+# GsapText
+We can use same method like gsap.to(), gsap.from(), gsap.fromTo() and gsap.timeline() to animate text.
+
+Using these methods we can achieve various text animations and effects like fade in, fade out, slide in, slide out, and many more.
+
+For more advanced text animations and effects, you can explore the GSAP TextPlugin or other third-party libraries that specialize in text animations.
+
+Read more about the TextPlugin plugin.
+
 
 
 
