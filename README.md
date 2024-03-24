@@ -24,5 +24,14 @@ The gsap.from() method is similar to the gsap.to() method, but the difference is
 
 Read more about the gsap.from() method.
 
+# GsapFromTo
+The gsap.fromTo() method is used to animate elements from a new state to a new state.
+
+The gsap.fromTo() method is similar to the gsap.from() and gsap.to() methods, but the difference is that the gsap.fromTo() method animates elements from a new state to a new state, while the gsap.from() method animates elements from a new state to their current state, and the gsap.to() method animates elements from their current state to a new state.
+
+Read more about the gsap.fromTo() method.
+
+
+
 
 
