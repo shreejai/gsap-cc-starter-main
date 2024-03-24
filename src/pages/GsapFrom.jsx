@@ -1,5 +1,28 @@
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
+
+useGSAP
+
 const GsapFrom = () => {
   // TODO: Implement the gsap.from() method
+  useGSAP(() => {
+    gsap.from('#green-box', {
+      x: 250,
+      repeat: -1,
+      yoyo: true,
+      rotation: 360,
+      duration: 2,
+      ease: "power1.inOut"
+    })
+  }, []);
+  
+  /** The only difference between gsap.to and 
+  gsap.from, considering this example, is that 
+  in gsap.from the animation starts from the 
+  x position as mentioned above instead of 
+  starting from that position which is the case
+  with gsap.to
+  */ 
 
   return (
     <main>
