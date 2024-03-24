@@ -38,6 +38,13 @@ The gsap.timeline() method is similar to the gsap.to(), gsap.from(), and gsap.fr
 
 Read more about the gsap.timeline() method.
 
+# GsapStagger
+GSAP stagger is a feature that allows you to apply animations with a staggered delay to a group of elements.
+
+By using the stagger feature in GSAP, you can specify the amount of time to stagger the animations between each element, as well as customize the easing and duration of each individual animation. This enables you to create dynamic and visually appealing effects, such as staggered fades, rotations, movements, and more.
+
+Read more about the Gsap Stagger feature.
+
 
 
 
