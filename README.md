@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-**GsapTo**
+# GsapTo
 
 The gsap.to() method is used to animate elements from their current state to a new state.
 
@@ -16,7 +16,7 @@ The gsap.to() method is similar to the gsap.from() method, but the difference is
 Read more about the gsap.to() method.
 
 
-**GsapFrom**
+# GsapFrom
 
 The gsap.from() method is used to animate elements from a new state to their current state.
 
