@@ -31,6 +31,14 @@ The gsap.fromTo() method is similar to the gsap.from() and gsap.to() methods, bu
 
 Read more about the gsap.fromTo() method.
 
+# GsapTimeline
+The gsap.timeline() method is used to create a timeline instance that can be used to manage multiple animations.
+
+The gsap.timeline() method is similar to the gsap.to(), gsap.from(), and gsap.fromTo() methods, but the difference is that the gsap.timeline() method is used to create a timeline instance that can be used to manage multiple animations, while the gsap.to(), gsap.from(), and gsap.fromTo() methods are used to animate elements from their current state to a new state, from a new state to their current state, and from a new state to a new state, respectively.
+
+Read more about the gsap.timeline() method.
+
+
 
 
 
